@@ -1,0 +1,10 @@
+C:\Users\onnik\source\repos\calc 3\obj\Debug\calc 3.csproj.AssemblyReference.cache
+C:\Users\onnik\source\repos\calc 3\obj\Debug\calc_3.Form1.resources
+C:\Users\onnik\source\repos\calc 3\obj\Debug\calc_3.Properties.Resources.resources
+C:\Users\onnik\source\repos\calc 3\obj\Debug\calc 3.csproj.GenerateResource.cache
+C:\Users\onnik\source\repos\calc 3\obj\Debug\calc 3.csproj.CoreCompileInputs.cache
+C:\Users\onnik\source\repos\calc 3\bin\Debug\calc 3.exe.config
+C:\Users\onnik\source\repos\calc 3\bin\Debug\calc 3.exe
+C:\Users\onnik\source\repos\calc 3\bin\Debug\calc 3.pdb
+C:\Users\onnik\source\repos\calc 3\obj\Debug\calc 3.exe
+C:\Users\onnik\source\repos\calc 3\obj\Debug\calc 3.pdb
